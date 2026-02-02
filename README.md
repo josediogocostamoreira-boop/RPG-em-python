@@ -1,2 +1,2 @@
-# RPG-em-python
-Codigo de um jogo basico de rpg
+Codigo de jogo RPG em python
+Ficha prática e resolução
